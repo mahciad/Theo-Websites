@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://kpscoop.com/sitemap-index.xml
